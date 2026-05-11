@@ -1,4 +1,4 @@
-As part of assignment for my MSBA program at the University of Virginia, I employed complex NLP techniques to analyze customer reviews online to determine if a product would be profitable or not.
+As part of assignment for my MSBA program at the University of Virginia, I employed complex sentiment analysis and emotions analysis to analyze online customer reviews. Next, I built a deep learning model to accurately predict if a user would recommend a product or not. 
 
 Here is what I did:
 

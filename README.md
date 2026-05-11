@@ -1,3 +1,8 @@
+As part of assignment for my MSBA program at the University of Virginia, I employed complex NLP techniques to analyze customer reviews online to determine if a product would be profitable or not.
+
+Here is what I did:
+
+
 ## Online Reviews Analysis: NLP & Machine Learning
 
 This repository focuses on Natural Language Processing (NLP) and Machine Learning techniques to analyze online reviews. The project aims to classify sentiment, extract meaningful insights from text data, and build predictive models to understand customer feedback patterns.

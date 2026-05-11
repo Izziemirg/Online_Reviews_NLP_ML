@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+scipy
+ipykernel
+tqdm
+textblob
+nrclex
+wordcloud
+gensim
+tensorflow
+keras
